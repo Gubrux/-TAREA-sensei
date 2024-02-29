@@ -24,7 +24,7 @@ class Sensei extends Ninja {
 
     speakWisdom() {
         super.drinkSake();
-        console.log("Lo que un programador puede hacer en un mes, dos programadores pueden hacerlo en dos meses.");
+        console.log("Lo que un programador puede hacer en un mes, dos programadores pueden hacerlo en dos meses.!");
     }
 }
 
